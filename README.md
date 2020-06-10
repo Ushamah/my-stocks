@@ -1,6 +1,7 @@
 # MyStocks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+It is based on a tutorial on this this link: https://medium.com/@Zeroesandones/how-to-build-a-real-world-application-using-angular-9-1572371049dd
 
 ## Development server
 
